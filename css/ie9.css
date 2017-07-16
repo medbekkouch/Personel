@@ -1,0 +1,23 @@
+body {
+}
+
+.LP_ancreMenu {
+  	display:table;
+	
+	border-collapse:collapse;
+	border:none;
+	position: relative;
+	z-index: 10;
+}
+.LP_ancreMenu ul {
+  float:none;
+	display:table-row;
+	text-align:center;
+	list-style:none;
+	width:100%;
+}
+.LP_ancreMenu ul li {
+  float:none;
+	display:table-cell;
+	margin:0;
+}
