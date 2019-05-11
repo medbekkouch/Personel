@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /* ==========================================================================
    Import rules : files syntax => '_filename.scss'
    ========================================================================== */
@@ -15,8 +15,8 @@
 }
 
 /* line 84, ../../../../Ruby21/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-.icons-145 {
-  background-position: 0 -31px;
+.icons-145-1 {
+  background-position: 0 -145px;
 }
 
 /* line 84, ../../../../Ruby21/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
